@@ -25,7 +25,8 @@ ___
 * ## :paperclip: [Attach](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/attach "Attach")
 ---
 * ## :clipboard: [Blog](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/blog "Blog")
-    * ### :hourglass_flowing_sand: [C01_IntegrarEquiposDeTrabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
+    * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
+    * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
 ---
