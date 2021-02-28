@@ -22,10 +22,10 @@ ___
 
 # Índice
 
-* ## :paperclip: [Atach](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Atach "Atach")
+* ## :paperclip: [Attach](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/attach "Attach")
 ---
-* ## :clipboard: [Blog](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Blog "Blog")
-    * ### :hourglass_flowing_sand: [C0.1_IntegrarEquiposDeTrabajo](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/blob/main/Blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C0.1_IntegrarEquiposDeTrabajo")
+* ## :clipboard: [Blog](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/blog "Blog")
+    * ### :hourglass_flowing_sand: [C01_IntegrarEquiposDeTrabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
 ---
