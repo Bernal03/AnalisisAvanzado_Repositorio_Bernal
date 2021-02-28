@@ -27,12 +27,12 @@ ___
 * ## :clipboard: [Blog](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/blog "Blog")
     * ### :hourglass_flowing_sand: [C01_IntegrarEquiposDeTrabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
 ---
-* ## :bar_chart: [Diagrams](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Diagrams "Diagrams")
+* ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
 ---
-* ## :open_file_folder: [Docs](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Docs "Docs")
+* ## :open_file_folder: [Docs](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/docs "Docs")
 ---
-* ## :page_facing_up: [HTML](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/HTML "HTML")
+* ## :page_facing_up: [HTML](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/html "HTML")
 ---
-* ## :framed_picture: [Img](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/Img "Img")
+* ## :framed_picture: [Img](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/img "Img")
 ---
-* ##  :notebook_with_decorative_cover: [PDF](https://github.com/enrique-cisneros/AnalisisAvanzadoDeSoftware/tree/main/PDF "PDF")
+* ##  :notebook_with_decorative_cover: [PDF](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/pdf "PDF")
