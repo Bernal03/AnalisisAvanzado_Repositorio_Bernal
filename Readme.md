@@ -35,5 +35,7 @@ ___
 * ## :page_facing_up: [HTML](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/html "HTML")
 ---
 * ## :framed_picture: [Img](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/img "Img")
+     * ### :camera: [C0.2 Imagen del tipo de sistema](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/img/Imagen-C0.2-Tipo_Sistema_informacion.png "C02._Imagen")
+
 ---
 * ##  :notebook_with_decorative_cover: [PDF](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/pdf "PDF")
