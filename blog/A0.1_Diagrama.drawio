@@ -16,7 +16,7 @@
                         <mxPoint x="230" y="10" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=9;targetPerimeterSpacing=9;endWidth=17;endSize=14.39;startWidth=17;startSize=14.39;strokeColor=#000000;fillColor=#000000;" parent="1" edge="1">
+                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=9;targetPerimeterSpacing=9;endWidth=17;endSize=14.39;startWidth=17;startSize=14.39;fillColor=#4D4D4D;strokeColor=#4D4D4D;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="10" y="50" as="sourcePoint"/>
                         <mxPoint x="640" y="50" as="targetPoint"/>
@@ -32,7 +32,7 @@
                     <mxGeometry x="495" y="90" width="80" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="&lt;font color=&quot;#ffffff&quot;&gt;Concrete&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="120" y="40" width="40" height="20" as="geometry"/>
+                    <mxGeometry x="120" y="40" width="70" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="What are they doing?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="90" y="120" width="120" height="20" as="geometry"/>
@@ -58,7 +58,7 @@
                 <mxCell id="23" value="Introducing their requested information" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="1" vertex="1">
                     <mxGeometry x="273" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Emotional" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="13" value="&lt;font color=&quot;#ffffff&quot;&gt;Emotional&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="515" y="40" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" value="To give them the access they need to use the platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;" parent="1" vertex="1">
