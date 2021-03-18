@@ -28,9 +28,12 @@ ___
     * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
     * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
     * ###  :hourglass: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.3_Diagrama_de_flujo_del_proceso.md "C0.3 Diagrama de flujo del proceso")
+    * ###  :trophy: [A0.1 Data collecting through interview](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A0.1_DataCollectingThroughInterview_BernalArellanoRoberto.md "A0.1 Data collecting")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/C0.3_diagrama_de_flujo_del_proceso.png "Diagrama C0.3")
+    * ### :chart_with_upwards_trend: [A0.1 What-How-Why Diagram](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/A0.1_Diagrama.png "A0.1 WHW Diagram")
+    * ### :chart_with_upwards_trend: [A0.1 Contex Diagram](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/A0.1_Context.png "A0.1 Context")
 ---
 * ## :open_file_folder: [Docs](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/docs "Docs")
 ---
