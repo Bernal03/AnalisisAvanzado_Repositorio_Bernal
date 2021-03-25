@@ -29,6 +29,7 @@ ___
     * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
     * ###  :hourglass: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.3_Diagrama_de_flujo_del_proceso.md "C0.3 Diagrama de flujo del proceso")
     * ###  :trophy: [A0.1 Data collecting through interview](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A0.1_DataCollectingThroughInterview_BernalArellanoRoberto.md "A0.1 Data collecting")
+    * ###  :trophy: [C1.1 Requisitos del sistema para el caso de estudio](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.1_RequisitosDelSistemaParaElCasoDeEstudio_BernalArellanoRoberto.md "C1.1 Requisitos del sistema para el caso de estudio")
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/C0.3_diagrama_de_flujo_del_proceso.png "Diagrama C0.3")
