@@ -35,6 +35,7 @@ ___
     * ### :chart_with_upwards_trend: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/C0.3_diagrama_de_flujo_del_proceso.png "Diagrama C0.3")
     * ### :chart_with_upwards_trend: [A0.1 What-How-Why Diagram](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/A0.1_Diagrama.png "A0.1 WHW Diagram")
     * ### :chart_with_upwards_trend: [A0.1 Contex Diagram](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/A0.1_Context.png "A0.1 Context")
+    * ### :bar_chart: [C1.1 BPMN Diagram](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/C1.1_BPMN.png "A0.1 Context")
 ---
 * ## :open_file_folder: [Docs](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/docs "Docs")
 ---
