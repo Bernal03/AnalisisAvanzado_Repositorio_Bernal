@@ -25,12 +25,17 @@ ___
 * ## :paperclip: [Attach](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/attach "Attach")
 ---
 * ## :clipboard: [Blog](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/blog "Blog")
+    * ###  :trophy: [A0.1 Data collecting through interview](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A0.1_DataCollectingThroughInterview_BernalArellanoRoberto.md "A0.1 Data collecting")
+    * ###  :trophy: [A1.0 Constitutive act´s consolidation](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A1.0_ProjectConstitutiveActElaboration_BernalArellanoRoberto.md "A1.0 Constitutive act´s consolidation")
+    ___
     * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
     * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
     * ###  :hourglass: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.3_Diagrama_de_flujo_del_proceso.md "C0.3 Diagrama de flujo del proceso")
-    * ###  :trophy: [A0.1 Data collecting through interview](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A0.1_DataCollectingThroughInterview_BernalArellanoRoberto.md "A0.1 Data collecting")
-    * ###  :trophy: [C1.1 Requisitos del sistema para el caso de estudio](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.1_RequisitosDelSistemaParaElCasoDeEstudio_BernalArellanoRoberto.md "C1.1 Requisitos del sistema para el caso de estudio")
-    * ###  :trophy: [C1.2 Acta constitutiva del proyecto](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.2_ElaboracionDelActaConstitutivaDelProyecto_BernalArellanoRoberto.md "C1.2 Acta constitutiva del proyecto")
+
+    * ###  :hourglass_flowing_sand: [C1.1 Requisitos del sistema para el caso de estudio](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.1_RequisitosDelSistemaParaElCasoDeEstudio_BernalArellanoRoberto.md "C1.1 Requisitos del sistema para el caso de estudio")
+    * ###  :hourglass_flowing_sand: [C1.2 Acta constitutiva del proyecto](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.2_ElaboracionDelActaConstitutivaDelProyecto_BernalArellanoRoberto.md "C1.2 Acta constitutiva del proyecto")
+    * ###  :hourglass_flowing_sand: [C1.3 Requisitos del sistema para el caso de uso](https://github.com/Bernal03/https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.3_RequisitosDelSistemaParaElCasoDeEstudio_BernalArellanoRoberto.md "C1.3 Requisitos del sistema para el caso de uso")
+    
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
     * ### :chart_with_upwards_trend: [C0.3 Diagrama de flujo del proceso](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/diagrams/C0.3_diagrama_de_flujo_del_proceso.png "Diagrama C0.3")
