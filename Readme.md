@@ -35,6 +35,7 @@ ___
     * ###  :hourglass_flowing_sand: [C1.2 Acta constitutiva del proyecto](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.2_ElaboracionDelActaConstitutivaDelProyecto_BernalArellanoRoberto.md "C1.2 Acta constitutiva del proyecto")
     * ###  :hourglass_flowing_sand: [C1.3 Requisitos del sistema para el caso de uso](https://github.com/Bernal03/https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.3_RequisitosDelSistemaParaElCasoDeEstudio_BernalArellanoRoberto.md "C1.3 Requisitos del sistema para el caso de uso")
     * ###  :hourglass_flowing_sand: [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.4_ModeladoDeRequisitosATravesDeDiagramasDeComportamiento_BernalArellanoRoberto.md "C1.4 Modelado de requisitos a través de diagramas de comportamiento")
+    * ###  :trophy: [C1.5 Modelado de requisitos a través de diagramas estructurados](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C1.5_ModeladoDeRequisitosATravesDeDiagramasEstructurados_BernalArellanoRoberto.md "C1.5 Modelado de requisitos a través de diagramas estructurados")
     
 ---
 * ## :bar_chart: [Diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/diagrams "Diagrams")
