@@ -27,7 +27,7 @@ ___
 * ## :clipboard: [Blog](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/tree/main/blog "Blog")
     * ###  :trophy: [A0.1 Data collecting through interview](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A0.1_DataCollectingThroughInterview_BernalArellanoRoberto.md "A0.1 Data collecting")
     * ###  :trophy: [A1.0 Constitutive act´s consolidation](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A1.0_ProjectConstitutiveActElaboration_BernalArellanoRoberto.md "A1.0 Constitutive act´s consolidation")
-    * ###  :trophy: [A1.1 Requirements modeling through UML diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A1.1_RequirementsModelingThroughUMLDiagrams_BernalArellanoRoberto.md "A1.1 Requirements modeling through UML diagrams")
+    * ###  :bomb: [A1.1 Requirements modeling through UML diagrams](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A1.1_RequirementsModelingThroughUMLDiagrams_BernalArellanoRoberto.md "A1.1 Requirements modeling through UML diagrams")
     ___
     * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
     * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
