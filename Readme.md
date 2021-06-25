@@ -34,6 +34,7 @@ ___
     * ###  :bomb: [A3.1 Scrums First Phase: Proyects Vision Declaration](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A3.1_ScrumsFirstPhaseProyectsVisionDeclaration_BernalArellanoRoberto.md "A3.1 Scrums First Phase: Proyects Vision Declaration")
     * ###  :bomb: [A3.2 Initial Phase: Artifacts](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A3.2_Initial%20PhaseArtifacts_BernalArellanoRoberto.md "A3.2 Initial Phase: Artifacts")
      * ###  :bomb: [A3.3 Software architecture through the C4 modeling](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A3.3_SoftwareArchitectureThroughTheC4Model_BernalArellanoRoberto.md "A3.3 Software architecture through the C4 modeling")
+     * ###  :bomb: [A3.4 Planning and estimation phase: Artifacts](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/A3.4_PlanningAndEstimationPhaseArtifacts_BernalArellanoRoberto.md "A3.4 Planning and estimation phase: Artifacts")
     ___
     * ### :hourglass_flowing_sand: [C0.1 Integrar Equipos De Trabajo](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.1_IntegrarEquiposdeTrabajo.pdf "C01._IntegrarEquiposDeTrabajo")
     * ###  :trophy: [C0.2 Tipo de sistema de información](https://github.com/Bernal03/AnalisisAvanzado_Repositorio_Bernal/blob/main/blog/C0.2-Tipo_de_sistema_de_informacion.md "C0.2 Tipo de sistema de informacion")
